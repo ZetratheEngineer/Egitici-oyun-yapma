@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 79979eca5e0f05f4d868f57d43c8e7de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - KarePrefab: {instanceID: 0}
+  - ButonPanel: {instanceID: 0}
+  - soruPanel: {instanceID: 0}
+  - soruText: {instanceID: 0}
+  - PuanText: {instanceID: 0}
+  - kareSprite: {fileID: 21300000, guid: 11612e2c2e4076349962100016d90fd9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
